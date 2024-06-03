@@ -14,12 +14,12 @@ Pour installer cette application sur votre ordinateur, suivez ces étapes :
 2. Installer les dépendances
 
    ```bash
-   pnpm install
+   npm install
 
 3. Run le projet
 
    ```bash
-   pnpm run dev
+   npm run dev
    
 ## Clés d'API
 
@@ -41,4 +41,4 @@ https://openweathermap.org/api
 
 ## Auteur
 
-Kipdev, créateur de contenus et développeur.
+Jonathan Diki, développeur/MERN.
