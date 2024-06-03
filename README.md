@@ -9,7 +9,7 @@ Pour installer cette application sur votre ordinateur, suivez ces étapes :
 1. Clonez le projet depuis GitHub :
 
    ```bash
-   git clone https://github.com/yohannkipfer/meteo-react-ts
+   git clone https://github.com/Dkz001/Weather_App.git
 
 2. Installer les dépendances
 
@@ -27,7 +27,7 @@ Dans index.html :
 
 Ajouter la clé d'API google maps.
 
-https://console.cloud.google.com/welcome?hl=fr&project=kipdev
+https://console.cloud.google.com
 
 Créer une clé d'API avec Places API, Maps JS et Geocode d'activer.
 
