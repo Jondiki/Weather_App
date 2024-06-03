@@ -41,4 +41,4 @@ https://openweathermap.org/api
 
 ## Auteur
 
-Jonathan Diki, développeur/MERN.
+Jonathan D, développeur/MERN.
