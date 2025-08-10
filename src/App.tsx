@@ -254,3 +254,4 @@ viewBox="0 0 256 116" xmlns="http://www.w3.org/2000/svg" width="256" height="116
 }
 
 export default App;
+// created with <3  by Jonathan DIKIZEYIKO
