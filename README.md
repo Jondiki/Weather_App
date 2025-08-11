@@ -1,6 +1,6 @@
 # App  Météo
 
-App permetant de consulter les prévisions météorologiques en temps réel en utilisant l'API OpenWeatherMap et  Google Maps.
+App permetant de consulter les prévisions météorologiques en temps réel en utilisant l'API OpenWeatherMap & Google Maps.
 
 ## Installation
 
