@@ -1,12 +1,10 @@
 # App  Météo
 
-Application permetant de consulter les prévisions météorologiques en temps réel en utilisant l'API OpenWeatherMap et d'afficher la carte de localisation en utilisant l'API Google Maps.
+App permetant de consulter les prévisions météorologiques en temps réel en utilisant l'API OpenWeatherMap et  Google Maps.
 
 ## Installation
 
-Pour installer cette application sur votre ordinateur, suivez ces étapes :
-
-1. Clonez le projet depuis GitHub :
+1. Clone projet depuis GitHub :
 
    ```bash
    git clone https://github.com/Dkz001/Weather_App.git
